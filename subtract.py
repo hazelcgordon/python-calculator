@@ -1,3 +1,3 @@
 def subtract(x, y):
-    return y - y
+    return x - y
 
